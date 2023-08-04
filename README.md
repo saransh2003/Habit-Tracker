@@ -1,2 +1,1 @@
-# Habit-Tracker
-It's a Habit Tracker Web Application Project.
+# Habit_Tracker
